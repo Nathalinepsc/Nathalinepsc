@@ -53,6 +53,6 @@ Conquistar minha primeira oportunidade como desenvolvedora backend e evoluir con
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nathalinepsc&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nathalinepsc&show_icons=true&theme=radical&cache_seconds=60)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalinepsc&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalinepsc&layout=compact&theme=radical&cache_seconds=60)
