@@ -25,7 +25,7 @@ Estou construindo minha base através de estudos consistentes e projetos prátic
 ##  O que estou estudando
 - Lógica de programação  
 - C#  
-- .NET  
+- .NET
 - Programação Orientada a Objetos (POO)  
 - ASP.NET MVC  
 - Entity Framework  
