@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Oi, eu sou a Nathaline!
 
-<!--
-**Nathalinepsc/Nathalinepsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Backend em formação  
+🚀 Focada em C# | .NET | APIs  
+📍 Praia Grande - São Paulo - Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+Sou estudante de programação em transição de carreira para tecnologia, com foco em desenvolvimento backend utilizando C# e .NET.  
+Estou construindo minha base através de estudos consistentes e projetos práticos.
+
+---
+
+## 🚀 O que estou estudando
+- Lógica de programação  
+- C#  
+- .NET  
+- Programação Orientada a Objetos (POO)  
+- ASP.NET MVC  
+- Entity Framework  
+- SQL Server  
+- Git e GitHub  
+- Azure  
+
+---
+
+## 🎯 Objetivo
+Conquistar minha primeira oportunidade como desenvolvedora backend e evoluir constantemente na área de tecnologia.
+
+---
+
+## 📌 Projetos em destaque
+🔹 Em construção...
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/nathaline-pryscila-s-789507b2/  
+- Email: nathalinep@gmail.com  
