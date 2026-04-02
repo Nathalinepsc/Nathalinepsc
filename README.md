@@ -1,13 +1,13 @@
-# 👋 Olá, eu sou a Nathaline!
+# Olá, eu sou a Nathaline!
 ---
 
-💻 Desenvolvedora Backend em formação  
-🚀 Focada em C# | .NET | APIs  
-📍 Praia Grande - São Paulo - Brasil  
+Desenvolvedora Backend em formação  
+Focada em C# | .NET | APIs  
+Praia Grande - São Paulo - Brasil  
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -16,13 +16,13 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 Sou estudante de programação em transição de carreira para tecnologia, com foco em desenvolvimento backend utilizando C# e .NET.  
 Estou construindo minha base através de estudos consistentes e projetos práticos.
 
 ---
 
-## 🚀 O que estou estudando
+##  O que estou estudando
 - Lógica de programação  
 - C#  
 - .NET  
@@ -35,23 +35,23 @@ Estou construindo minha base através de estudos consistentes e projetos prátic
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 Conquistar minha primeira oportunidade como desenvolvedora backend e evoluir constantemente na área de tecnologia.
 
 ---
 
-## 📌 Projetos em destaque
-🔹 Em construção... (em breve meus primeiros projetos reais 👀)
+## Projetos em destaque
+Em construção... (em breve meus primeiros projetos reais )
 
 ---
 
-## 📫 Contato
+## Contato
 - LinkedIn: https://www.linkedin.com/in/nathaline-pryscila-s-789507b2/  
 - Email: nathalinep@gmail.com
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nathalinepsc&show_icons=true&theme=radical&cache_seconds=60)
 
