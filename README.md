@@ -1,8 +1,7 @@
-# Olá, eu sou a Nathaline!
+# Nathaline Pryscila dos Santos Conde
 ---
 
 Desenvolvedora Backend em formação  
-Focada em C# | .NET | APIs  
 Praia Grande - São Paulo - Brasil  
 
 ---
